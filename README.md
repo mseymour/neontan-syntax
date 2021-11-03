@@ -1,5 +1,5 @@
 # neontan-syntax theme
 
-AZURETAN CUSTOM NEON theme
+Custom syntax theme for Atom
 
-hello~
+hewwo nya~
