@@ -1,0 +1,15 @@
+{
+  "name": "neontan-syntax",
+  "theme": "syntax",
+  "version": "0.1.0",
+  "description": "Neontan syntax",
+  "keywords": [
+    "syntax",
+    "theme"
+  ],
+  "repository": "https://github.com/mseymour/neontan-syntax",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
